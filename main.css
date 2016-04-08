@@ -12,12 +12,12 @@ body {
 	
 .eduThirdLvlText {
 	border:6px solid #000000;
-	line-height:10px;
+	padding: 1px 0px 1px 0px;
 }
 
 .eduSecondLvlText {
 	border:6px solid #000000;
-	line-height:10px;
+	padding: 1px 0px 1px 0px;
 }
 
 h2 {
