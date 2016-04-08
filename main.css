@@ -10,17 +10,8 @@ body {
 	text-align:center;
 	}
 	
-.eduThirdLvlText {
-	border:6px solid #000000;
-	line-height:1px;
-}
-
-.eduSecondLvlText {
-	border:6px solid #000000;
-	line-height:1px;
-}
-.eduText {
-	border:6px solid #000000;
+.boxText {
+	border:2px solid #000000;
 	line-height:1px;
 }
 
