@@ -20,5 +20,9 @@ h2 {
 }
 
 .ulHeader {
+	text-decoration:bold;
 	border-bottom:1px solid #CCEEFF;
+}
+.ulHeaderText {
+	line-height:1px;
 }
