@@ -20,7 +20,7 @@ h2 {
 }
 
 .ulHeader {
-	text-decoration:bold;
+	font-weight:bold;
 	border-bottom:1px solid #CCEEFF;
 }
 .ulHeaderText {
