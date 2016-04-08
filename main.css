@@ -2,8 +2,22 @@ h1 {
 	text-decoration:bold;
 	font-size:40px;
 	color:#FF0000;
+	background-color:#AACCDD;
+	
 	}
 
 body {
 	text-align:center;
 	}
+	
+.eduThirdLvlText {
+	border:6px solid #000000;
+}
+
+.eduSecondLvlText {
+	border:6px solid #000000;
+}
+
+.div {
+	border:6px solid #000000;
+}
