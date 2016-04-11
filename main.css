@@ -38,6 +38,7 @@ h2 {
 
 .contactInfo {
 	display:inline;
-	margin:auto;
 	line-height:2px;
+	width:500px;
+	height:500px;
 }
