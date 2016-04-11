@@ -1,5 +1,5 @@
 html {
-	background-color:#000000;
+	background-color:#AACCDD;
 	background-image: url("background.png");
 	background-position: top, left;
 	background-repeat: repeat;
@@ -44,6 +44,8 @@ img {
 
 .contactInfo {
 	text-align:left;
-	margin:10px;
-	padding:10px;
+	margin:4px;
+	padding:4px;
+	line-height:2px;
+	width:5px;
 }
