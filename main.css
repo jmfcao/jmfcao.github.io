@@ -40,12 +40,9 @@ h2 {
 img {
 	float: left;
 	border:5px solid #000000;
+	padding:10px;
 }
 
 .contactInfo {
-	text-align:left;
-	margin:4px;
-	padding:4px;
-	line-height:2px;
-	display:inline;
+	display:block;
 }
