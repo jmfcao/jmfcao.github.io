@@ -37,7 +37,7 @@ img {
 }
 
 .contactInfo {
-	display:inline;
+	display:block;
 	width:200px;
 	height:100px;
 }
