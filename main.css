@@ -30,9 +30,14 @@ h2 {
 	line-height:2px;
 }
 
-
+.profileImg {
+	float: left;
+	border:5px solid #000000;
+	margin:2px;
+}
 
 .contactInfo {
 	display:inline;
+	margin:auto;
 	line-height:2px;
 }
