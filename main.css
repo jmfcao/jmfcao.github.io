@@ -7,7 +7,7 @@ h1 {
 
 body {
 	text-align:center;
-	font-family:"Gill San MT", Arial, san-serif;
+	font-family:"Gill Sans MT", Arial, san-serif;
 	padding:0;
 	border:0;
 	margin:0;
@@ -37,6 +37,6 @@ img {
 
 .contactInfo {
 	text-align:left;
-	margin:1px 1px 1px 1px;
-	padding:1px 1px 1px 1px;
+	margin:10px;
+	padding:10px;
 }
