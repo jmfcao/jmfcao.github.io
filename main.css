@@ -1,8 +1,8 @@
 html {
-	background-color:#AACCDD;
-	background-image:url("Images\background.png");
-	background-position:top, left;
-	background-repeat:repeat;
+
+	background-image: url("background.png");
+	background-position: top, left;
+	background-repeat: repeat;
 }
 
 h1 {
