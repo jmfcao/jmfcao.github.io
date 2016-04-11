@@ -1,6 +1,6 @@
 html {
 	background-color:#AACCDD;
-	background-image:url(Images\background.png);
+	background-image:url("Images\background.png");
 	background-position:top, left;
 	background-repeat:repeat;
 }
