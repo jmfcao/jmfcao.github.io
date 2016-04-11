@@ -3,11 +3,12 @@ h1 {
 	font-size:40px;
 	color:#555555;
 	background-color:#AACCDD;
-	
+	font-family:"Gill San MT", Arial, san-serif;
 	}
 
 body {
 	text-align:center;
+	font-family:"Gill San MT", Arial, san-serif;
 	}
 	
 .boxText {
