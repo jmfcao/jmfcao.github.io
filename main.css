@@ -3,7 +3,6 @@ h1 {
 	font-size:40px;
 	color:#555555;
 	background-color:#AACCDD;
-	font-family:"Gill San MT", Arial, san-serif;
 	}
 
 body {
@@ -33,5 +32,9 @@ h2 {
 
 img {
 	float: left;
-	border-bottom:2px solid #CCEEFF;
+	border:5px solid #000000;
+}
+
+.contactInfo {
+	width:2px;
 }
